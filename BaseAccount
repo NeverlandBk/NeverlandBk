@@ -1,0 +1,3 @@
+public abstract class BaseAccount {
+    public abstract boolean deposit(double amount) ;
+}
